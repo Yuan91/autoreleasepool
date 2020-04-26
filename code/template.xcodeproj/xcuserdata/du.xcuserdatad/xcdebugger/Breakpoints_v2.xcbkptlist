@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E0C017E9-1506-4B46-9748-C95F426FCC3C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            uuid = "FE180440-9182-404C-A2D8-81F70B0F3E12"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            scope = "1"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.SymbolicBreakpoint">
+         <BreakpointContent
+            uuid = "07F4BAF7-BB5D-4BDC-B69D-B3F1CAFE0441"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = "_wrapRunLoopWithAutoreleasePoolHandler"
+            moduleName = "">
+            <Locations>
+               <Location
+                  uuid = "07F4BAF7-BB5D-4BDC-B69D-B3F1CAFE0441 - f52dcdc3c4dddb24"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_wrapRunLoopWithAutoreleasePoolHandler"
+                  moduleName = "UIKitCore"
+                  usesParentBreakpointCondition = "Yes"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "07F4BAF7-BB5D-4BDC-B69D-B3F1CAFE0441 - c94958c48254af10"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_wrapRunLoopWithAutoreleasePoolHandler"
+                  moduleName = "BaseBoard"
+                  usesParentBreakpointCondition = "Yes"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "07F4BAF7-BB5D-4BDC-B69D-B3F1CAFE0441 - 7f478175bf53b530"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_wrapRunLoopWithAutoreleasePoolHandler"
+                  moduleName = "MapKit"
+                  usesParentBreakpointCondition = "Yes"
+                  offsetFromSymbolStart = "0">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.SymbolicBreakpoint">
+         <BreakpointContent
+            uuid = "7EE9A4EE-96B5-4658-AC1C-8A2E6CB16176"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = "__handleHIDEventFetcherDrain"
+            moduleName = "">
+            <Locations>
+               <Location
+                  uuid = "7EE9A4EE-96B5-4658-AC1C-8A2E6CB16176 - 71668c374ca74794"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__handleHIDEventFetcherDrain"
+                  moduleName = "UIKitCore"
+                  usesParentBreakpointCondition = "Yes"
+                  offsetFromSymbolStart = "0">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
